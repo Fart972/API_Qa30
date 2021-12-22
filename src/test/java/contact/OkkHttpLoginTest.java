@@ -1,4 +1,4 @@
-package Contact;
+package contact;
 
 
 import com.google.gson.Gson;
